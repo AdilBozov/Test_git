@@ -1,0 +1,8 @@
+SQL - Sequence Query Language
+Relacionni bazi ot danni 
+
+Relaciq - tablichni vryzki (tablichno predstavqne)
+RDBMS - Relational Database Management System
+MySQL - Server za Bazzi ot danni (Trigeri, View, Job)
+MySQL - v tozi syrvyr moje da ima mnogo na broi bazi ot danni
+Bazi ot danni - Tablicite, Trigerite, Jobevete ...

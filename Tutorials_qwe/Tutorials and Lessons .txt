@@ -1,0 +1,11 @@
+1. PHP - script 
+2. MySQL - PHP
+3. MVC PHP
+4. JavaScript - AngularJs, NodeJs, jQuerry
+5. AJAX
+6. Rest WS(Web Services)
+7. Zend framework 2
+
+-----Linux !!!!
+
+ 

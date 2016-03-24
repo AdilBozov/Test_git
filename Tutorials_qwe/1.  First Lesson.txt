@@ -1,0 +1,15 @@
+
+CMD - nslookup - to see domain IP address; Example: nslookup www.data.bg result: 10.10.18.252
+xamp write direcotory in -> htdocs
+
+To configure Virtual Hosts in PHP go to C:\xampp\apache\conf
+open httpd.conf and search for 
+# Virtual hosts
+Include conf/extra/httpd-vhosts.conf
+then go to C:\xampp\apache\conf\extra and configure VirtualHost
+
+
+Working direcotory -> C:\xampp\htdocs\schoolbg\
+
+To modify localhost Windows file go to C:\Windows\System32\drivers\etc and open hosts file with administration
+accaount
